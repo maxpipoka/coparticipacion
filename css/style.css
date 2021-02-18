@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+}
+h1{
+    margin: auto;
+}
+
+h4{
+    margin: auto;
+}
+.pagina-titulo{
+    text-align: center;
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.pagina-subtitulo{
+    text-align: center;
+}
